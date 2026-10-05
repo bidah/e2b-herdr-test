@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "e2b-herdr-test",
+    "slug": "e2b-herdr-test",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "computer.inti.e2bherdrtest" },
+    "scheme": "e2bherdrtest"
+  }
+}
